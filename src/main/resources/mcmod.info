@@ -1,0 +1,16 @@
+[
+{
+  "modid": "biomedrone",
+  "name": "Biome Drone",
+  "description": "This mod adds a drone entity which can quickly search for biomes",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Brad Johnson (bradsk88)"],
+  "credits": "Brad Johnson - Lead Programmer",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
